@@ -1,0 +1,36 @@
+##
+# Host Database
+#
+# localhost is used to configure the loopback interface
+# when the system is booting.  Do not change this entry.
+##
+127.0.0.1	localhost
+255.255.255.255	broadcasthost
+::1             localhost
+
+# Disable macOS updates
+# Made By Lirunext
+# Version:0.1 beta1
+# Date:2020/6/26 11:07
+# this is start
+127.0.0.1	appldnld.apple.com
+127.0.0.1	gg.apple.com
+127.0.0.1	gnf-mdn.apple.com
+127.0.0.1	gnf-mr.apple.com
+127.0.0.1	gs.apple.com
+127.0.0.1	ig.apple.com
+127.0.0.1	mesu.apple.com
+127.0.0.1	ns.itunes.apple.com
+127.0.0.1	oscdn.apple.com
+127.0.0.1	osrecovery.apple.com
+127.0.0.1	skl.apple.com
+127.0.0.1	swcdn.apple.com
+127.0.0.1	swdist.apple.com
+127.0.0.1	swdownload.apple.com
+127.0.0.1	swpost.apple.com
+127.0.0.1	swquery.apple.com
+127.0.0.1	swscan.apple.com
+127.0.0.1	updates-http.cdn-apple.com
+127.0.0.1	updates.cdn-apple.com
+127.0.0.1	xp.apple.com
+# this is end
